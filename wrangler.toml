@@ -1,3 +1,0 @@
-name = "gck-betting-ai-backend"
-main = "worker.js"
-compatibility_date = "2025-01-01"
